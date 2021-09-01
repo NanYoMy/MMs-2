@@ -28,7 +28,7 @@ This is the diagram of the proposed framework:
 ## Acknowledgement
 This project is largely based on the "nnUnet" and "simpleitk" repositories.
 
-##reference 
+## Reference 
 
 ``
 
