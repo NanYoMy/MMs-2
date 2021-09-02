@@ -19,7 +19,7 @@ This framework has been applied to multi-view RV segmentation task:
 
 This is the diagram of the proposed framework:
 <!-- ![Framework](./img/framework.png "Framework") --> 
-<img src="./img/framework.png" alt="" width="100%"  align="middle"  />
+<img src="./img/framework.png" alt="" width="70%"  align="middle"  />
 
 ## Overview
 - [trained model file](.//.py): to be upload.
