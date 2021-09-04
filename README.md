@@ -22,7 +22,7 @@ This is the diagram of the proposed framework:
 <img src="./img/framework.png" alt="" width="70%"  align="middle"  />
 
 ## Overview
-- [trained model file](https://drive.google.com/drive/folders/1PIJs9S2MFt6ncbNgBlOjK-pV4QU4AC9X):  
+- [trained model](https://drive.google.com/drive/folders/1PIJs9S2MFt6ncbNgBlOjK-pV4QU4AC9X)
 - [prediction code](./model/model.py)
 
 ## Acknowledgement
