@@ -30,7 +30,7 @@ This project is largely based on the "nnUnet" and "simpleitk" repositories.
 
 ## Reference 
 
-``
+`Li, L., Ding, W., Huang, L., & Zhuang, X. (2021). Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition. STACOM 2021.`
 
 ## Contact
 If have any question, create a new issue, or directly email me at moon_well@live.cn
